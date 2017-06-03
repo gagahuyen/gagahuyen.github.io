@@ -1,0 +1,241 @@
+
+
+#body {
+	font-family: UTM;
+	font-size: 14px;
+	color: #666;
+	margin: 0px;
+	
+	background-color: #000000;
+	
+
+}
+
+.slant-wrapper-agolden{
+	position: absolute;
+bottom: -132px;
+left: 0px;
+width: 100%;
+max-width: 2000px;
+height: 135px;
+}
+
+
+.slant-wrapper-a2golden{
+	position: absolute;
+
+left: 0px;
+width: 100%;
+max-width: 2000px;
+height: 90px;
+}
+.slant-a2golden {
+    position: absolute;
+    top: -42px;
+    width: 100%;
+    height: 90px;
+    background-color: #ff0000;
+    -ms-transform: skewY(-3deg);
+	-webkit-transform: skewY(-3deg);
+	transform: skewY(-3deg);
+}
+
+.slant-agolden {
+    position: absolute;
+    top: -42px;
+    width: 100%;
+    height: 90px;
+    background-color: #000000;
+    -ms-transform: skewY(3deg);
+	-webkit-transform: skewY(3deg);
+	transform: skewY(3deg);
+}
+
+#banner2-agolden{
+    height: 740px;
+    background-color: #000000;
+    position: relative;
+    bottom: 45px;
+}
+
+
+#banner3-agolden
+{
+	height: 740px;
+    background-color: #ff0000;
+    position: relative;
+   
+	top: 9px
+}
+
+#banner4-agolden
+{
+	height: 450px;
+background-image: url("../images/footer.png");
+background-repeat: no-repeat;
+position: relative;
+top: -56px;
+background-position: 48% center;
+}
+
+.content2-agolden
+{
+	margin: 0px auto;
+width: 860px;
+padding-top: 139px;
+
+}
+
+
+#content1-agolden
+{
+	margin:0 auto;
+	width:860px;
+}
+#content2-agolden
+{
+	margin:0 auto;
+	width:860px;
+}
+
+.img-golden
+{
+	margin-top: -34px;
+	margin-left: -35px;
+}
+
+#footer{
+	width: 100%;
+background-color: #000;
+position: relative;
+height: 145px;
+	
+}
+
+#content .fl-gold {
+    float: left;
+    font-size: 18px;
+    font-family: HelveticaInseratLTStd;
+    padding-top: 40px;
+}
+
+#content .fr-gold {
+    float: right;
+    padding-top: 64px;
+}
+
+.font-size76
+{
+	font-size:76px;
+	font-family:HelveticaInseratLTStd;
+	color:#ffffff;
+}
+
+
+.size-34
+{
+	font-size:34px;
+	font-family: Arial;
+	color:#ffffff;
+}
+
+.img-golden2
+{
+	margin-top: 69px;
+}
+
+.size24
+{
+	font-size: 24px;
+color: #FFF;
+font-family: HelveticaInseratLTStd;
+margin-left: 121px;
+
+top: 13px;
+position: relative;
+}
+
+.size48-bold
+{
+	font-size:48px;
+	font-family:Arial;
+	color:#FFF;
+	font-weight:bold;
+}
+
+.size22{
+	font-size:22px;
+	font-family:Arial;
+	color:#FFF;
+	opacity: 0.8;
+}
+
+.flgol{
+	float:left;
+	margin-top: 60px;
+}
+
+
+.frgol{
+	float:right;
+	margin-top: 60px;
+}
+
+.imgicon{
+	margin-top: 45px;
+margin-right: 30px;
+}
+
+.font-size76-1{
+	font-size: 76px;
+font-family: HelveticaInseratLTStd;
+color: #FFF;
+
+padding-top: 10px;
+position: relative;
+top: 103px;
+}
+
+.icon
+{
+	
+	background-image: url("../images/info11.png");
+background-repeat: no-repeat;
+width:255px;
+height:80px;
+float: left;
+position:relative;
+margin-top: 44px;
+margin-right: 24px;
+}
+.font20
+{
+	font-family:Arial;
+	font-size:20px;
+	position:absolute;
+	top:5px;
+	top: 18px;
+left: 62px;
+}
+.icon1{
+	background-image: url("../images/infohuyen22_07.png");
+background-repeat: no-repeat;
+width:255px;
+height:80px;
+float: left;
+position: relative;
+margin-top: 44px;
+margin-right: 24px;
+
+}
+
+.icon2{
+	background-image: url("../images/huyen333_07.png");
+background-repeat: no-repeat;
+width:255px;
+height:80px;
+float: left;
+position: relative;
+margin-top: 44px;
+margin-right: 24px;
+}
