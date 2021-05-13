@@ -553,6 +553,12 @@ opacity: 1;
 }
 .form-control{
 color:#000000;
+
+grid-template: g
+gg
+g
+g
+;
 }
 .text-contact  .form-horizontal .form-group:nth-of-type(1) {
 margin-top: 0;
